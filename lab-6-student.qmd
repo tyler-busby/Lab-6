@@ -2,7 +2,7 @@
 title: "Lab 6: Childcare Costs in California"
 author: "Tyler Busby"
 date: "4/14/25"
-format: html
+format: md
 editor: source
 ---
 
